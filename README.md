@@ -1,1 +1,1 @@
-This is a copy of repoaitory from codedex to learn about Github
+This is a copy of repository from codedex to learn about Github
